@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package latihangit;
+package tm.pkg12.gitaritmatika;
 
 /**
  *
  * @author LENOVO
  */
-public class LatihanGit {
+public class MainApp {
 
     /**
      * @param args the command line arguments
