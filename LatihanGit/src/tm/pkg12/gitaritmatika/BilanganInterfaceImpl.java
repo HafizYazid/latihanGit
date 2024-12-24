@@ -22,7 +22,7 @@ public class BilanganInterfaceImpl implements BilanganInterface{
 
     @Override
     public double mult(Bilangan bilangan) {
-        return bilangan.getBilangan1() + bilangan.getBilangan2();
+        return bilangan.getBilangan1() + bilangan.getBilangan2() + 5;
     }
 
     @Override
